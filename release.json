@@ -1,8 +1,9 @@
 {
-  "status": "pending",
-  "version": null,
+  "status": "ready",
+  "version": "reader-test-617-1",
   "apkUrl": "/SanctumVault-Reader.apk",
-  "sha256": null,
-  "sizeBytes": null,
-  "channel": "test"
+  "sha256": "0c2a76fa582443b8c53d320946cd8b6482c5ea5bf2df75273f5227685b092b2f",
+  "sizeBytes": 23667031,
+  "channel": "test",
+  "warning": "Test build; installation over previous builds may require uninstalling."
 }
